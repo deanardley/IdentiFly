@@ -37,7 +37,7 @@ class _PdfViewerState extends State<PdfViewer> {
             isLoading = false;
           });
         }else{
-          throw Exception("Failed to load PDF.");
+          throw Exception("Failed to load PDF file.");
         }
     }catch (e){
       ScaffoldMessenger.of(context).showSnackBar(
