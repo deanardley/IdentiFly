@@ -10,6 +10,6 @@ class MainAdmin extends StatefulWidget {
 class _MainAdminState extends State<MainAdmin> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Card();
   }
 }
