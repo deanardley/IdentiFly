@@ -160,7 +160,7 @@ class _ClassifyState extends State<Classify> {
                 SizedBox(height: 10,),
 
                 Text(
-                  "The uploaded image can't be classified",
+                  "The image can't be classified. Please try again.",
                   style: TextStyle(fontSize: 18),
                   textAlign: TextAlign.center,
                 ),
