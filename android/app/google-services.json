@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "671109686467",
+    "firebase_url": "https://project-identifly-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "project-identifly",
+    "storage_bucket": "project-identifly.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671109686467:android:71f140821531e08f916e76",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHRkTZep36L78b79Cj5OletY9X2oqo2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671109686467:android:fcfc429d4e805c09916e76",
+        "android_client_info": {
+          "package_name": "com.example.identifly_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHRkTZep36L78b79Cj5OletY9X2oqo2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
