@@ -3,10 +3,12 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## Project Description
 IdentiFly is a mobile application developed for classifying three fly species (Chrysomya megacephala, Chrysomya rufifacies, Hemipyrellia Ligurriens). This project aims to assist entomologists to conduct species identification quickly and accurately. Some of the technologies used in this project are Flutter, Python, Tensorflow, and Android Studio IDE.
+
 
 ## Project Screenshots
 <p align="center">
@@ -22,4 +24,7 @@ IdentiFly is a mobile application developed for classifying three fly species (C
 * **Interactive Dashboards:** Visualized user and classification data.
 * **CRUD Data Management:** Provides efficient management of user data and prediction history.
 
-
+## System Architecture
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04379ade-942d-49f9-8ad1-865e863d7e79" width="80%"/>
+</p>
