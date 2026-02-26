@@ -5,9 +5,10 @@ IdentiFly is a mobile application developed for classifying three fly species (C
 
 ## Project Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/53284c20-ca96-4057-b6bc-80ac345bc3e7" width="30%">
-  <img src="https://github.com/user-attachments/assets/215e4f9d-c91d-4c49-ab5e-adc5a10ff15f" width="30%">
-  <img src="https://github.com/user-attachments/assets/4eb76b55-f547-428f-b043-0e597cddd981" width="30%">
+  <img src="https://github.com/user-attachments/assets/53284c20-ca96-4057-b6bc-80ac345bc3e7" width="25%">
+  <img src="https://github.com/user-attachments/assets/215e4f9d-c91d-4c49-ab5e-adc5a10ff15f" width="25%">
+  <img src="https://github.com/user-attachments/assets/4eb76b55-f547-428f-b043-0e597cddd981" width="25%">
+  <img src="https://github.com/user-attachments/assets/9ac2a984-7d14-44ea-afd3-a3be6c2a4440" width="25%">
 </p>
 
 ## Key Features
