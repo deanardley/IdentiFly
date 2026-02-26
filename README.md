@@ -12,11 +12,9 @@ IdentiFly is a mobile application developed for classifying three fly species (C
 </p>
 
 ## Key Features
-<ul>
-  <li>Real-time classification using phone camera</li>
-  <li>Offline mode capability</li>
-  <li>Interactive dashboards</li>
-  <li>CRUD (Create, Read, Update, Delete)</li>
-</ul>
+* **Real-time Classification:** Provides quick and accurate species prediction.
+* **Offline Capability:** Accessible without internet connection.
+* **Interactive Dashboards:** Visualized user and classification data.
+* **CRUD Data Management:** Provides efficient management of user data and prediction history.
 
 
