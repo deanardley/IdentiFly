@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FF9100?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-%23FF9100?style=for-the-badge&logo=firebase&logoColor=41cf8f)
+![Supabase](https://img.shields.io/badge/Supabase-%3ECF8E?style=for-the-badge&logo=firebase&logoColor=41cf8f)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## Project Description
