@@ -37,7 +37,6 @@ class _ClassifyState extends State<Classify> {
 
   Future<void> loadModel() async {
     try {
-      // Automatically looks in your "assets" folder
       interpreter = await Interpreter.fromAsset("assets/fly_species_classifier_cnn.tflite");
       print('Model loaded from assets');
     } catch (e) {
